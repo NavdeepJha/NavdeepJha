@@ -23,6 +23,9 @@ I focus on building systems that are:
 ---
 
 ## 🛠️ Tech Stack
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
 
 **Cloud & Storage**
 - Microsoft Azure
