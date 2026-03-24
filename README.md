@@ -1,6 +1,6 @@
 # Hi, I'm Navdeep Jha 👋
 
-Azure Data Engineer with 5+ years of experience designing and optimizing scalable data platforms.
+Azure Data Engineer with ~6 years of experience designing and optimizing scalable data platforms.
 
 I specialize in building production-grade data pipelines using Azure-native services and modern data stack technologies.
 
