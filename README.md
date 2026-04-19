@@ -36,7 +36,6 @@ I focus on building systems that are:
 - Azure Databricks (PySpark)
 - Delta Lake
 - Snowflake
-- dbt
 
 **Programming & Query**
 - Python
