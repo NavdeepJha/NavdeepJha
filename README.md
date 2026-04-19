@@ -35,7 +35,7 @@ I focus on building systems that are:
 - Azure Data Factory (ADF)
 - Azure Databricks (PySpark)
 - Delta Lake
-- Snowflake
+- Snowflake  
 
 **Programming & Query**
 - Python
