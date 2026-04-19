@@ -77,6 +77,8 @@ it is about designing systems that scale and stay stable.
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NavdeepJha&show_icons=true&theme=tokyonight)
+
 ![Navdeep Jha stats](https://github-readme-stats.vercel.app)
 
 ## 📫 Let's Connect
