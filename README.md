@@ -14,7 +14,7 @@ I specialize in building production-grade data pipelines using Azure-native serv
 🔹 Implement data modeling using Snowflake & dbt  
 🔹 Apply partitioning, clustering, and optimization strategies to reduce cost & improve performance  
 
-I focus on building systems that are:
+I focus on building systems that are:  
 ✔ Scalable  
 ✔ Reliable  
 ✔ Maintainable  
