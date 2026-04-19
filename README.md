@@ -43,7 +43,8 @@ I focus on building systems that are:
 - PySpark
 
 **DevOps & DataOps**
-- Azure DevOps
+- Azure DevOps  
+- Declarative Asset Bundles  
 - CI/CD Pipelines
 - Git
 - Monitoring & Logging
